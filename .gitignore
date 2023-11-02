@@ -1,0 +1,5 @@
+*.o
+*.stash
+moc_*
+Makefile
+bin/
